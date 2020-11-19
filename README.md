@@ -1,4 +1,5 @@
 # simStock-Documents-legacy-version
+這是[舊版小確幸股票模擬機](https://github.com/peiyu66/simStock)的說明書：
 * [首頁-簡介](https://peiyu66.github.io/simStock-Documents-legacy-version/home.html)
 * [主畫面](https://peiyu66.github.io/simStock-Documents-legacy-version/zhu-hua-mian.html)
     * [模擬摘要](https://peiyu66.github.io/simStock-Documents-legacy-version/zhu-hua-mian/mo-ni-zhai-yao.html)
@@ -12,3 +13,5 @@
     * [設計偶談](https://peiyu66.github.io/simStock-Documents-legacy-version/ce-luee-yu-fang-fa/she-ji.html)
 * [常見問題](https://peiyu66.github.io/simStock-Documents-legacy-version/chang-jian-wen-ti.html)
 * [版本說明](https://peiyu66.github.io/simStock-Documents-legacy-version/ban-ben-shuo-ming.html)
+
+另有[simStock21](simStock21為SwiftUI重製版。)為小確幸股票模擬機SwiftUI重製版。
