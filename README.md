@@ -14,4 +14,4 @@
 * [常見問題](https://peiyu66.github.io/simStock-Documents-legacy-version/chang-jian-wen-ti.html)
 * [版本說明](https://peiyu66.github.io/simStock-Documents-legacy-version/ban-ben-shuo-ming.html)
 
-另有[simStock21](simStock21為SwiftUI重製版。)為小確幸股票模擬機SwiftUI重製版。
+另有[simStock21](https://peiyu66.github.io/simStock21/)為小確幸股票模擬機SwiftUI重製版。
