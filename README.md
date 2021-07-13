@@ -1,7 +1,7 @@
 # simStock-Documents-legacy-version
 這是[舊版小確幸股票模擬機](https://github.com/peiyu66/simStock)的說明書：
 * [首頁-簡介](https://peiyu66.github.io/simStock-Documents-legacy-version/home.html)
-* [主畫面](https://peiyu66.github.io/simStock-Documents-legacy-version/zhu-hua-mian.html)
+* [主畫面](https://github.com/peiyu66/simStock-legacy-documents/raw/main/zhu-hua-mian.html)
     * [模擬摘要](https://peiyu66.github.io/simStock-Documents-legacy-version/zhu-hua-mian/mo-ni-zhai-yao.html)
     * [重新下載](https://peiyu66.github.io/simStock-Documents-legacy-version/zhu-hua-mian/zhong-xin-xia-zai.html)
     * [匯出檔案](https://peiyu66.github.io/simStock-Documents-legacy-version/zhu-hua-mian/hui-chu-dang-an.html)
